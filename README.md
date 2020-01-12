@@ -18,8 +18,7 @@ React Conf Japanではすべての参加者，スピーカー，スポンサー�
 
 私達は参加者がカンファレンス会場，またカンファレンスに関連したソーシャルイベントにて，このルールに従うことを望みます． 
 
-この行動規範は、 [confcodeofconduct.com](https://ja.confcodeofconduct.com/) を元にしています。
-
+この行動規範は、 [confcodeofconduct.com](https://ja.confcodeofconduct.com/)  を元にしています。
 
 # Conference Code of Conduct
 
@@ -41,3 +40,6 @@ Conference staff will be happy to help participants contact hotel/venue security
 We expect participants to follow these rules at conference venues and conference-related social events. 
 
 This Conde of Conduct is based on [confcodeofconduct.com](https://confcodeofconduct.com/).
+
+
+"Conference Code of Conduct" by [confcodeofconduct.com](https://confcodeofconduct.com/) used under [CC BY](https://creativecommons.org/licenses/by/3.0/) / Modified from original.
